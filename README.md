@@ -125,6 +125,6 @@ SOFTWARE.
 [jpeterson]: https://github.com/Jpeterson37
 [issue]: https://github.com/JP-Tek-Services/addon-example/issues
 [releases]: https://github.com/JP-Tek-Services/addon-example/releases
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [patreon-shield]: https://jpeterson37.github.io/patreon/patreon.png
 [patreon]: https://www.patreon.com/jptekservices
